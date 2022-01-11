@@ -1,5 +1,3 @@
-About Gaurav
-
 # Gaurav
 
 ## Reddit clone
